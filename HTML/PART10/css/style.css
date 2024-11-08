@@ -13,9 +13,9 @@ img{
     width: 50px;
 }
 
-th{
+/* th{
     background-color: aqua;
-}
+} */
 
 tr:nth-child(even){
     background-color: bisque;
