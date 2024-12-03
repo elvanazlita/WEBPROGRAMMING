@@ -1,6 +1,6 @@
 .flex-container {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     background-color: darkseagreen;
 }
 
@@ -20,3 +20,4 @@ p {
 h1{
     text-align: center;
 }
+

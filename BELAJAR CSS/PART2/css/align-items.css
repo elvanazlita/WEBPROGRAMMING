@@ -1,7 +1,7 @@
 .flex-container {
     display: flex;
-    align-items: center;
-    background-color: cornflowerblue;
+    align-items: stretch;
+    background-color: lightslategrey;
     height: 500px;
 }
 
@@ -21,3 +21,4 @@ p {
 h1{
     text-align: center;
 }
+
